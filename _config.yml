@@ -1,0 +1,21 @@
+# Site settings
+title: Erreurs de codage
+header-img: img/home-bg.png
+email: sam.zeidman@gmail.com
+copyright_name: szeidman
+description: > # this means to ignore newlines until "baseurl:"
+  Something I learned today
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  szeidman
+learn_profile: szeidman
+email_username: sam.zeidman@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
