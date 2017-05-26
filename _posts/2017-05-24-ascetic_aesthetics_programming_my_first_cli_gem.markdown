@@ -6,8 +6,10 @@ date:   2017-05-24 20:43:18 +0000
 ---
 
 
-## First principles
+
 ## ![](http://i.imgur.com/gtNkMRf.jpg)
+
+## First principles
 
 There have been a [number](https://www.theatlantic.com/national/archive/2011/05/anatomy-of-a-fake-quotation/238257/) of [articles](https://www.nytimes.com/2017/02/15/opinion/can-you-spot-the-fake-quotation.html?_r=0) over the years (and centuries!) about misattributed quotations and where they come from, what their appeal is, and how to spot them. They may result from copy/paste manglings online, and, absent Jonah-Lehreresque patterns of intentional fabrication, a lot of them manage to simply slip into the ether of cliché, relatively unnoticed. I have been thinking about one of those: Bill Gates saying something to the effect that he would prefer to have a lazy person do a hard job because they'd find the easiest possible way to do it. The quote's a bit clunky (like many of these things), with a whiff of stern authority and self-hagiography. The sentiment makes sense, though.
 
