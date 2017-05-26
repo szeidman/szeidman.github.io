@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 title:  Oblique strategies
 date:   2017-05-12 18:13:47 +0000
