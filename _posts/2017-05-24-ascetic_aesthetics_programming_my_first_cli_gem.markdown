@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 title:  Ascetic aesthetics&#58 programming my first CLI gem
 date:   2017-05-24 20:43:18 +0000
