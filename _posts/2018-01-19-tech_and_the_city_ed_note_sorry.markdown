@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Tech & the City *(ed. note: sorry)*"
-date:       2018-01-19 16:16:12 +0000
+title:      "Tech & the City [ed. note: sorry]"
+date:       2018-01-19 11:16:13 -0500
 permalink:  tech_and_the_city_ed_note_sorry
 ---
 
